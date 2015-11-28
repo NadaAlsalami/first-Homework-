@@ -1,2 +1,2 @@
 # first-Homework-
-first assignment  contains PHP cods with their explanation & emplementation 
+First assignment  contains PHP codes with their Explanation & Implementation 
